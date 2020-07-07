@@ -17,3 +17,8 @@ cd www
 npm install
 npm run start
 ```
+
+
+## Demo
+
+There is a live app at https://life.orkhon.pw/
